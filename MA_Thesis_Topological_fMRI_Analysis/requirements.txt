@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+nibabel
+h5py
+opencv-python
+ripser
+persim
+networkx
+plotly
+kaleido
+umap-learn

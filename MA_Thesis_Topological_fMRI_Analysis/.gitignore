@@ -1,0 +1,27 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+.env
+.venv/
+env/
+venv/
+
+# Local NSD/fMRI data are intentionally excluded from the portfolio repo.
+responses_sub_01.tsv
+betas/
+rois/
+stimuli/
+*.nii
+*.nii.gz
+*.hdf5
+*.h5
+*.mat
+
+# Generated analysis dumps can be regenerated locally.
+outputs/
